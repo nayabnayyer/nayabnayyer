@@ -31,13 +31,7 @@ Solving 10 problems daily — 30+ done and counting.
 | **Languages** | Python |
 | **ML/Data** | Scikit-learn, Pandas, NumPy, Regression Models |
 | **Deployment** | Streamlit, Git, GitHub |
-| **Concepts** | OOP, Data Cleaning, Feature Engineering, Model Evaluation |
-
----
-
-## 📊 GitHub Stats
-
-![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayabnayyer&show_icons=true&theme=default)
+| **Concepts** | OOP, Data Cleaning, Feature Engineering, Model Evaluation
 
 ---
 
