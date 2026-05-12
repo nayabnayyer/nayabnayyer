@@ -1,4 +1,4 @@
-- # 👋 Hi, I'm Nayab Nayyer
+# 👋 Hi, I'm Nayab Nayyer
 
 **CS Graduate @ LCW (CGPA: 3.64) | Python Developer | AI/ML Enthusiast**
 
