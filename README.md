@@ -56,6 +56,10 @@ Solving 10 problems daily — 30+ done and counting.
 
 ---
 
+## ⚡ Fun fact:
+
+My first deployed project was a medical cost predictor. My second was a QR generator. My third will be whatever breaks my brain next.
+
 *"Ship before you feel ready."*
 
 — Nayab
