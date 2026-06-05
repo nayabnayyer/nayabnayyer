@@ -15,11 +15,11 @@ AI-powered medical cost prediction web app using Random Forest (R² 0.89). Deplo
 
 ### 📱 QR ScanPro
 Memory-efficient QR code generator for the skincare industry. Built with Python, Streamlit, and BytesIO.
-- 🔗 [Live Demo](https://medicalpredictpro-hnzfulxbrqbtp47c3lehwu.streamlit.app/)]
+- 🔗 [Live Demo](https://medicalpredictpro-hnzfulxbrqbtp47c3lehwu.streamlit.app/)
 - 📁 [GitHub Repo](https://github.com/nayabnayyer/QR_Project)
 
 ### 🐍 100 Python Problems
-Solving 10 problems daily — 30+ done and counting.
+Solving 10 problems daily — 50 done and counting.
 - 📁 [GitHub Repo](https://github.com/nayabnayyer/100-Python-Problems)
 
 ---
