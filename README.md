@@ -1,119 +1,178 @@
+<div align="center">
+
 # 👋 Hi, I'm Nayab Nayyer
 
-**AI/ML Engineer | Python | Machine Learning | Deep Learning | NLP**
+### AI/ML Engineer • Python • Machine Learning • Deep Learning • NLP
 
-CS graduate from **Lahore College for Women University (LCWU)** with a **3.64/4.00 CGPA** and Silver Medalist (2nd Position).
+CS Graduate & Silver Medalist • AI Intern • Lahore, Pakistan
 
-I build practical AI/ML applications — from machine learning models and NLP systems to deep learning and AI-powered applications.
+[LinkedIn](https://linkedin.com/in/nayab-nayyer) •
+[Email](mailto:nayabnayyer882@gmail.com) •
+[GitHub](https://github.com/nayabnayyer)
 
-Currently working as an **AI Intern** while strengthening my skills in deep learning, computer vision, LLM applications, and AI engineering.
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
+
+🤖 AI & LLM Applications  
+🧠 Machine Learning Systems  
+💬 NLP & Semantic Search  
+👁️ Deep Learning & Computer Vision  
+📊 Data-driven Applications  
+
+---
+
+## ⭐ Featured Projects
 
 ### 🏥 MedPredict Pro
+**Medical Cost Prediction · Machine Learning · Streamlit**
 
-End-to-end machine learning application for medical insurance cost prediction.
+An end-to-end machine learning application for predicting medical insurance costs.
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit
+**Tech Stack**
 
-* Data preprocessing and feature engineering
-* Outlier handling and encoding
-* Hyperparameter optimization
-* Model evaluation
-* Streamlit deployment
-* **R² ≈ 0.89**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-📁 [GitHub Repository](https://github.com/nayabnayyer/MedPredictPro-Medical_Cost_Prediction_Web_Application.git)
+- Data preprocessing and feature engineering
+- Outlier handling and categorical encoding
+- Hyperparameter optimization
+- Model evaluation
+- Interactive Streamlit deployment
+- **R² Score: 0.89**
+
+📁 [View Repository](https://github.com/nayabnayyer/MedPredictPro-Medical_Cost_Prediction_Web_Application.git)
 
 ---
 
 ### 🤖 DecodeBot
+**Hybrid NLP · Semantic Search · Generative AI**
 
-AI chatbot combining semantic search, rule-based NLP, and generative AI.
+A hybrid AI chatbot combining rule-based NLP, semantic search, and generative AI.
 
-**Tech:** Python, FAISS, NLP, Gemini API
+**Tech Stack**
 
-* Semantic retrieval using FAISS
-* Rule-based NLP processing
-* Gemini API integration
-* AI-powered conversational responses
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-orange?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-📁 [GitHub Repository](https://github.com/nayabnayyer/DecodeBot-AI-Chatbot-Assistant.git)
+- Semantic retrieval using FAISS
+- Rule-based intent processing
+- Gemini API integration
+- Calculator, weather, and web search tools
+- Multi-chat conversation interface
+
+📁 [View Repository](https://github.com/nayabnayyer/DecodeBot-AI-Chatbot-Assistant.git)
 
 ---
 
 ### 🎯 PathAI
+**NLP · Recommendation Systems · Explainable Recommendations**
 
-NLP-based career recommendation system using text similarity.
+An AI-powered career recommendation system using NLP and text similarity.
 
-**Tech:** Python, NLP, TF-IDF, Cosine Similarity
+**Tech Stack**
 
-* Text preprocessing
-* TF-IDF feature extraction
-* Cosine similarity
-* Recommendation based on semantic relevance
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-📁 [GitHub Repository](https://github.com/nayabnayyer/PathAI-AI-Career-Recommendation-System.git)
+- TF-IDF-based text representation
+- Cosine similarity for recommendations
+- Skill matching and gap analysis
+- Career recommendation and roadmap generation
+- Interactive dashboard with visualizations
+
+📁 [View Repository](https://github.com/nayabnayyer/PathAI-AI-Career-Recommendation-System.git)
 
 ---
 
 ### 🩻 Explainable Pneumonia Detection
+**Deep Learning · Computer Vision · Explainable AI**
 
-CNN-based computer vision project for detecting pneumonia from chest X-ray images.
+A CNN-based project for pneumonia detection from chest X-ray images.
 
-**Tech:** Python, TensorFlow/Keras, CNN, Computer Vision, Grad-CAM
+**Tech Stack**
 
-🚧 **Currently in development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-The project focuses on model training, evaluation, and exploring explainability techniques such as Grad-CAM.
+🚧 **Ongoing Project**
+
+Currently exploring CNN-based image classification, model evaluation, error analysis, and Grad-CAM explainability.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python · SQL
+### Programming & Data
 
-**Machine Learning & Data**
-Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-**Deep Learning**
-TensorFlow · Keras · CNNs
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-**NLP & AI**
-TF-IDF · Cosine Similarity · FAISS · Gemini API
+### Machine Learning
 
-**Deployment & Tools**
-Streamlit · Git · GitHub
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Currently Learning**
-FastAPI · LangChain · RAG · Docker · LLM Applications · AI Agents · MLOps
+`Feature Engineering` · `Classification` · `Regression` · `Model Evaluation`
 
----
+### Deep Learning & Computer Vision
 
-## 💼 Currently
+`TensorFlow` · `Keras` · `CNNs` · `Image Classification` · `Grad-CAM`
 
-* 🔹 Working as an **AI Intern**
-* 🔹 Building practical AI/ML projects
-* 🔹 Strengthening Deep Learning and Computer Vision
-* 🔹 Exploring LLM applications, RAG, and AI engineering
-* 🔹 Looking for **AI/ML, Python, and entry-level AI engineering opportunities**
+### NLP & Generative AI
+
+`TF-IDF` · `Cosine Similarity` · `FAISS` · `Semantic Search` · `Gemini API` · `LLM Applications`
+
+### Development & Deployment
+
+`Git` · `GitHub` · `Streamlit` · `Streamlit Cloud`
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Exploring
 
-* 💼 [LinkedIn](https://linkedin.com/in/nayab-nayyer)
-* 📧 **[nayabnayyer882@gmail.com](mailto:nayabnayyer882@gmail.com)**
+| Area | Technologies |
+|---|---|
+| ⚡ AI Engineering | FastAPI · Docker |
+| 🤖 LLM Applications | RAG · Gemini · LLM APIs |
+| 🧩 Agentic AI | LangChain · AI Agents |
+| 📊 Evaluation | LLM Evaluation · Model Evaluation |
+| 🚀 MLOps | MLflow · Deployment |
+
+---
+
+## 💼 What I'm Working On
+
+🔹 AI/ML engineering projects  
+🔹 Deep learning and computer vision  
+🔹 LLM-powered applications  
+🔹 RAG and agentic AI  
+🔹 Model evaluation and deployment  
+🔹 Strengthening Python and ML fundamentals  
+
+---
+
+## 📫 Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/nayab-nayyer)  
+📧 [nayabnayyer882@gmail.com](mailto:nayabnayyer882@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-I started with a medical cost predictor and somehow ended up building chatbots, recommendation systems, and neural networks. Apparently, I like making things harder for myself. 😭
+I started with a medical cost predictor and somehow ended up building chatbots, recommendation systems, and neural networks.
 
-*"Ship before you feel ready."*
+Apparently, I like making things harder for myself. 😭
 
-— Nayab
+> *Ship before you feel ready.*
+>
+> — Nayab
